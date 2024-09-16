@@ -1,6 +1,6 @@
 //If your IDe produces any comments DELETE ALL OF IT minus class construction
 import java.util.ArrayList;
-
+//Looks Good! -Jaiden
 public class MeanProgram
 {
 
